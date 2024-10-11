@@ -1,11 +1,3 @@
 # New Project
 
-This Project was created by local system.
-
-Programmed by Mohd Uvesh!git
-
-Learning Github Operations Remotely!
-
-Making Korrection...
-
-checking checking checking
+This Project was created by local system owned by Mohd Uvesh.
